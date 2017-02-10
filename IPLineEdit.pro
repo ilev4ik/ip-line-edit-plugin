@@ -32,6 +32,6 @@ SOURCES += \
 
 HEADERS  += \
     iplineedit.h \
-    iplineeditplugin.h
+    iplineeditplugin.h \
+    ipaddress.h
 
-FORMS    +=

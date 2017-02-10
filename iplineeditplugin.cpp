@@ -3,6 +3,7 @@
 
 #include <QtPlugin>
 
+
 IPLineEditPlugin::IPLineEditPlugin(QObject *parent):
     QObject(parent),
     initialized(false)
